@@ -10,7 +10,7 @@ async function example(){
 
     var capabilities = {
 		"build" : "JavaScript Wait Function",
-		"name" : "Google search",
+		"name" : "Form Submission",
 		"platform" : "Windows 10",
 		"browserName" : "Chrome",
 		"version" : "91.0",
